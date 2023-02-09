@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.form {
+  display: flex;
+  justify-content: space-evenly;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 20px;
+}
+button {
+  margin-top: 20px;
+  padding: 7px;
+  border-radius: 7px;
+}
+.starred {
+  background-color: blueviolet;
+  color: white;
+  padding: 7px;
+  border-radius: 7px;
+}
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.main {
+  background-color: aquamarine;
+  height: 100vh;
+}

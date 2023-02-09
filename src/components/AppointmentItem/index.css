@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.title-star {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+li {
+  background-color: azure;
+  width: 200px;
+  height: 100px;
+  list-style: none;
+  margin: 10px;
+  box-shadow: 5px 5px rgb(87, 87, 86);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px;
+}
+.para {
+  font-weight: bold;
+}
